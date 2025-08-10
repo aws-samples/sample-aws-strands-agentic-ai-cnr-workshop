@@ -1,0 +1,17 @@
+# 数据预处理工具依赖包
+# Data preprocessing tool dependencies
+
+# HTTP请求库 - 用于调用API
+requests>=2.25.0
+
+# JSON处理 (Python内置，无需安装)
+# json
+
+# 正则表达式 (Python内置，无需安装) 
+# re
+
+# 类型提示 (Python 3.5+内置，无需安装)
+# typing
+
+# 操作系统接口 (Python内置，无需安装)
+# os

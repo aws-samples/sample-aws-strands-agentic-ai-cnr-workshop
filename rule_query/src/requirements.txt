@@ -1,0 +1,32 @@
+# 数据预处理工具依赖包
+# Data preprocessing tool dependencies
+
+# HTTP请求库 - 用于调用API
+requests>=2.25.0
+
+# MCP服务器依赖
+# MCP server dependencies
+mcp>=1.0.0
+
+# 异步HTTP客户端（推荐用于生产环境）
+# Async HTTP client (recommended for production)
+aiohttp>=3.8.0
+
+# JSON处理 (Python内置，无需安装)
+# json
+
+# 正则表达式 (Python内置，无需安装) 
+# re
+
+# 类型提示 (Python 3.5+内置，无需安装)
+# typing
+
+# 操作系统接口 (Python内置，无需安装)
+# os
+
+# 注意：以下是Python内置模块，无需额外安装
+# - json: JSON数据处理
+# - re: 正则表达式
+# - typing: 类型提示
+# - os: 操作系统接口
+# - asyncio: 异步编程支持
