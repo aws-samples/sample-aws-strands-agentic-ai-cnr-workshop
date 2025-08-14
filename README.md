@@ -11,8 +11,8 @@ This project contains multiple MCP server implementations that demonstrate how t
 ## 功能模块 / Feature Modules
 
 ### 1. 数据预处理服务器 / Data Preprocessing Server (`data_preprocess/`)
-- **功能**: 时间服务器，为AI代理提供当前时间信息
-- **用途**: 让Agent能够获取准确的时间信息进行时间相关的决策
+- **功能**: 支持单任务和多任务识别
+- **用途**: 从用户查询中智能提取订单号和操作意图
 - **技术栈**: Python 3.12+, MCP 1.6.0+
 
 ### 2. 规则查询服务器 / Rule Query Server (`rule_query/`)
